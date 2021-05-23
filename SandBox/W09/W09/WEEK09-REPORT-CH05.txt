@@ -1,0 +1,103 @@
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/kevindharmawan/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1043
+ZCZC hostname kevindharmawan
+ZCZC username kevindharmawan
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4312-F4FA Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 2469M
+ZCZC MaxMemory 172M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 179M
+ZCZC MaxLFS 510M
+ZCZC MaxMemory 211M
+ZCZC MaxLFS 809M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4417-31E9 Verified
+ZCZC MaxLFS 812M
+ZCZC MaxLFS 825M
+ZCZC MaxROOT 2470M
+ZCZC MaxLFS 881M
+ZCZC MaxMemory 266M
+ZCZC MaxLFS 930M
+ZCZC MaxMemory 390M
+ZCZC MaxLFS 1042M
+ZCZC MaxLFS 1067M
+ZCZC MaxLFS 1158M
+ZCZC MaxLFS 1180M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4518-7ACA Verified
+ZCZC MaxLFS 1195M
+ZCZC MaxLFS 1473M
+ZCZC MaxLFS 1485M
+ZCZC MaxLFS 1509M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4619-D907 Verified
+ZCZC MaxLFS 1513M
+ZCZC MaxLFS 1531M
+ZCZC MaxLFS 1551M
+ZCZC MaxLFS 1565M
+ZCZC MaxLFS 1577M
+ZCZC MaxLFS 1591M
+ZCZC MaxLFS 1596M
+ZCZC MaxLFS 1618M
+ZCZC MaxMemory 928M
+ZCZC MaxLFS 1671M
+ZCZC MaxROOT 2475M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4721-D9F2 Verified
+ZCZC MaxLFS 1696M
+ZCZC MaxROOT 2480M
+ZCZC MaxMemory 1362M
+ZCZC MaxLFS 1736M
+ZCZC MaxMemory 1372M
+ZCZC MaxLFS 1763M
+ZCZC MaxMemory 1530M
+ZCZC MaxLFS 1795M
+ZCZC MaxMemory 1689M
+ZCZC MaxLFS 1821M
+ZCZC MaxROOT 2485M
+ZCZC MaxMemory 1858M
+ZCZC MaxLFS 1837M
+ZCZC MaxROOT 2500M
+ZCZC MaxMemory 2112M
+ZCZC MaxLFS 1873M
+ZCZC MaxROOT 2502M
+ZCZC MaxLFS 1904M
+ZCZC MaxROOT 2567M
+ZCZC MaxLFS 1930M
+ZCZC MaxROOT 2575M
+ZCZC MaxLFS 2010M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4823-B7DD Verified
+ZCZC MaxLFS 2056M
+ZCZC MaxLFS 2078M
+ZCZC MaxLFS 2119M
+ZCZC MaxLFS 2147M
+ZCZC MaxLFS 2176M
+ZCZC MaxLFS 2214M
+ZCZC MaxLFS 2245M
+ZCZC MaxLFS 2279M
+ZCZC MaxLFS 2305M
+ZCZC MaxLFS 2348M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4926-73F5 Verified
+ZCZC MaxLFS 2389M
+ZCZC MaxLFS 2417M
+ZCZC MaxLFS 2448M
+ZCZC MaxLFS 2476M
+ZCZC MaxLFS 2552M
+ZCZC MaxLFS 2581M
+ZCZC MaxLFS 2604M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5028-9C64 Verified
+ZCZC MaxLFS 2645M
+ZCZC MaxMemory 2432M
+ZCZC MaxLFS 3703M
+ZCZC MaxLFS 3716M
+ZCZC MaxLFS 3755M
+ZCZC MaxLFS 4839M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5129-04F0 Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5231-D077 Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5333-3F5D Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5434-6940 Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5536-7D2E Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5639-B097 Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 5741-5E0E Verified

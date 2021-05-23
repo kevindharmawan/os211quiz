@@ -1,0 +1,29 @@
+ZCZC ===== Chapter 07_5 =====  Week 09 =====
+ZCZC pwd /home/kevindharmawan/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2138
+ZCZC hostname kevindharmawan
+ZCZC username kevindharmawan
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 3827-ECBC Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 2470M
+ZCZC MaxMemory 172M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 179M
+ZCZC MaxMemory 182M
+ZCZC MaxMemory 183M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 3930-D8F7 Verified
+ZCZC MaxMemory 184M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4032-82EA Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4134-554A Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4235-6D4F Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4337-951F Verified
+ZCZC MaxMemory 185M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4439-F345 Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4541-E00A Verified
+ZCZC MaxMemory 186M
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4643-3086 Verified
+ZCZC verifyTokenn kevindharmawanW09 kevindharmawan 4745-78CC Verified
